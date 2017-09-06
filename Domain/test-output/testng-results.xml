@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="84949" started-at="2017-09-05T20:07:11Z" finished-at="2017-09-05T20:08:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="84949" started-at="2017-09-05T20:07:11Z" finished-at="2017-09-05T20:08:36Z">
+      <class name="Test.POMTest">
+        <test-method status="PASS" signature="Init()[pri:0, instance:Test.POMTest@27efef64]" name="Init" is-config="true" duration-ms="9968" started-at="2017-09-06T06:07:11Z" finished-at="2017-09-06T06:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method status="PASS" signature="TestMethod()[pri:0, instance:Test.POMTest@27efef64]" name="TestMethod" duration-ms="73236" started-at="2017-09-06T06:07:21Z" finished-at="2017-09-06T06:08:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:Test.POMTest@27efef64]" name="driverClose" is-config="true" duration-ms="1724" started-at="2017-09-06T06:08:35Z" finished-at="2017-09-06T06:08:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- Test.POMTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
